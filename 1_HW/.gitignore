@@ -1,0 +1,30 @@
+#忽略部分文件
+*.bak
+*.ddk
+*.edk
+*.lst
+*.lnp
+*.mpf
+*.mpj
+*.obj
+*.omf
+
+*.plg
+*.rpt
+*.tmp
+*.__i
+*.crf
+*.o /
+*.d /
+*.axf
+*.tra
+*.dep
+
+*.iex
+*.htm
+*.sct
+*.map
+#忽略部分文件
+*fp-info-cache /
+#忽略部分文件夹
+/*-backups
